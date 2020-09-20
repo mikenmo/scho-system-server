@@ -1,0 +1,17 @@
+Entities for backend:
+
+user
+- created from admin panel
+
+grade (from user)
+- added from grades view
+
+announcement (from scho / schohead)
+- different for scho and nonscho
+
+book (scholib)
+- search view is okay, add viewable list of all available
+
+schobaby
+
+schoguardian
